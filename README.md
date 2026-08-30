@@ -1,41 +1,60 @@
-<h3 align="center">
-  Welcome to my profile! Gabsxk here.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<hr>
-
-<h3 align="left">
-  📊 GitHub Stats
-</h3>
-<hr>
 <div align="center">
-  <a href="https://github.com/Gabsxk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabsxk&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true"/>
-  </a>
+
+# Hey, I'm Gabriel 👋
+
+Welcome to my GitHub profile.
+
+<a href="https://github.com/Gabsxk">
+  <img src="https://komarev.com/ghpvc/?username=Gabsxk&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/gabg.jpg/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/gabxskg_">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:souza.gabrielg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/souzagabrielg/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discord.com/users/255077452504629248">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
 </div>
-<hr>  
 
-<h3 align="left">
-  🧠 Main Languages
-</h3>
-<hr>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsxk&layout=compact&show_icons=true&theme=dark&bg_color=00000000"/>
-</div>  
-<hr>
+<br>
 
-<h3 align="left">
-  💻 Social Media
-</h3>
-<hr>
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Gabsxk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000"
+    alt="Gabriel's GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsxk&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000"
+    alt="Most used languages"
+  />
+</p>
+
+<br>
+
+## 🧩 Detailed GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+<br>
+
 <div align="center">
-  <a href="https://www.instagram.com/gabg.jpg/" target="_blank"><img width="32px" title="Instagram" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/gabxskg_" target="_blank"><img width="32px" title="Twitter" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:souza.gabrielg@gmail.com"><img width="32px" title="Gmail" src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/Gmail_round.png"/></a> 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/souzagabrielg/" target="_blank"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a> 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/255077452504629248" target="_blank"><img width="32px" title="Discord" src="https://i.imgur.com/tNMFePQ.png"/></a> 
+  <sub>Built with code, caffeine and questionable debugging decisions.</sub>
 </div>
