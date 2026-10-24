@@ -1,3 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=gabsxk%40github%3A~%24+.%2Fwordmark.sh;Powerplant+Engineer+%7C+Developer" alt="Typing Effect" />
 </p>
+
+</div> 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/souzagabrielg/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Souza-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNCwtNzMxOSkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIi8+PC9nPjwvc3ZnPg=="/>
