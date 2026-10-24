@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-labelledby="svgTitle svgDesc">
+<title id="svgTitle">Gabsxk — Engineer and Developer</title>
+<desc id="svgDesc">An original animated technology-themed banner about engineering and software.</desc>
+
+
+<defs>
+  <linearGradient id="bg-hero-dark" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#080E1D" />
+    <stop offset="100%" stop-color="#101B31" />
+  </linearGradient>
+  <linearGradient id="accent-hero-dark" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#64F0CC"/>
+    <stop offset="100%" stop-color="#B49BFF"/>
+  </linearGradient>
+  <radialGradient id="halo-hero-dark">
+    <stop offset="0%" stop-color="#B49BFF" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#B49BFF" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid-hero-dark" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#29415A" stroke-width="1" opacity="0.35"/>
+  </pattern>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg-hero-dark)"/>
+<rect width="1200" height="390" rx="24" fill="url(#grid-hero-dark)" opacity="0.58"/>
+<circle cx="980" cy="190" r="290" fill="url(#halo-hero-dark)"/>
+<path d="M0 358 H1200" stroke="#29415A" opacity="0.7"/>
+<path d="M44 36 H164" stroke="#64F0CC" stroke-width="4" stroke-linecap="round"/>
+<circle cx="181" cy="36" r="4" fill="#64F0CC"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="44" y="70" font-family="'DejaVu Sans',Arial,sans-serif" font-size="15" fill="#8FA8BE" font-weight="700" letter-spacing="2">GABSXK  /  PROFILE 001</text>
+<text x="41" y="195" font-family="'DejaVu Sans',Arial,sans-serif" font-size="116" fill="#F2F8FF" font-weight="800" letter-spacing="-4">GABSXK</text>
+<rect x="45" y="221" width="71" height="4" rx="2" fill="url(#accent-hero-dark)"/>
+<text x="44" y="274" font-family="'DejaVu Sans',Arial,sans-serif" font-size="32" fill="#F2F8FF" font-weight="700" letter-spacing="4">ENGINEER</text>
+<text x="256" y="274" font-family="'DejaVu Sans',Arial,sans-serif" font-size="29" fill="#64F0CC" font-weight="600">×</text>
+<text x="293" y="274" font-family="'DejaVu Sans',Arial,sans-serif" font-size="32" fill="#F2F8FF" font-weight="700" letter-spacing="3">DEVELOPER</text>
+<text x="46" y="332" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16" fill="#8FA8BE" font-weight="600" letter-spacing="2">FROM COMPLEX SYSTEMS TO USEFUL SOFTWARE</text>
+<path d="M760 36 H820" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 64 H860" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 92 H900" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 120 H940" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 148 H820" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 176 H860" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 204 H900" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 232 H940" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 260 H820" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 288 H860" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 316 H900" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 344 H940" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<path d="M760 372 H820" stroke="#29415A" stroke-width="1" opacity="0.55"/>
+<circle cx="987" cy="191" r="134" fill="none" stroke="#29415A" stroke-width="2"/>
+<circle cx="987" cy="191" r="104" fill="none" stroke="#B49BFF" stroke-width="1.5" stroke-dasharray="4 10" opacity="0.7"/>
+<circle cx="987" cy="191" r="81" fill="#14243A" stroke="#29415A" stroke-width="2"/>
+<path d="M950 155 H1018 L1002 171 H972 V213 H1019 V196 H997 L1011 182 H1035 V229 H950 Z" fill="url(#accent-hero-dark)" opacity="0.93"/>
+<g>
+  <circle cx="987" cy="191" r="134" fill="none" stroke="#64F0CC" stroke-width="4" stroke-dasharray="31 810" stroke-linecap="round">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 987 191" to="360 987 191" dur="24s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="987" cy="191" r="116" fill="none" stroke="#B49BFF" stroke-width="3" stroke-dasharray="20 720" stroke-linecap="round">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 987 191" to="0 987 191" dur="19s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<text x="880" y="353" font-family="'DejaVu Sans',Arial,sans-serif" font-size="12" fill="#8FA8BE" font-weight="700" letter-spacing="1.5">DESIGN · SYSTEMS · DATA</text>
+<rect width="1198" height="388" x="1" y="1" rx="23" fill="none" stroke="#29415A" stroke-width="2"/>
+
+</svg>
